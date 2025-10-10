@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: e4106ec0e037b8b47959ca387895f671
+guid: 03805b791bf5d3a438718989f4a7cb90
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 5615407235444615729
-    second: green-goblin_0
+      213: -3628035637264808464
+    second: Richard_Hebert_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: green-goblin_0
+      name: Richard_Hebert_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 220
-        height: 287
+        width: 800
+        height: 923
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 13aa5d1012feded40800000000000000
-      internalID: 5615407235444615729
+      spriteID: 0f58f506fc0a6adc0800000000000000
+      internalID: -3628035637264808464
       vertices: []
       indices: 
       edges: []
@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Richard_Hebert_0: -3628035637264808464
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
