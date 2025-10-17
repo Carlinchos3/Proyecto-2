@@ -19,21 +19,22 @@ public class ManagerSceneLoader : MonoBehaviour
         }
 
 
-      if(Input.GetKeyDown(KeyCode.Alpha1) && !SceneManager.GetSceneByName("Scene 1").isLoaded)
+        if(Input.GetKeyDown(KeyCode.Alpha1) && !SceneManager.GetSceneByName("Triangulo").isLoaded)
         {
-            SceneManager.LoadScene("Scene 1",LoadSceneMode.Additive);
+            SceneManager.LoadScene("Triangulo", LoadSceneMode.Additive);
         }
-      else if(Input.GetKeyDown(KeyCode.Alpha2) && !SceneManager.GetSceneByName("Scene 2").isLoaded)
+        else if (Input.GetKeyDown(KeyCode.Alpha1) && SceneManager.GetSceneByName("Triangulo").isLoaded)
         {
-            SceneManager.LoadScene("Scene 2",LoadSceneMode.Additive);
+            SceneManager.UnloadSceneAsync("Triangulo");
         }
-        else if (Input.GetKeyDown(KeyCode.Alpha1) && SceneManager.GetSceneByName("Scene 1").isLoaded)
+        else if(Input.GetKeyDown(KeyCode.Alpha2) && !SceneManager.GetSceneByName("Redonda").isLoaded)
         {
-            SceneManager.UnloadSceneAsync("Scene 1");
+            SceneManager.LoadScene("Redonda", LoadSceneMode.Additive);
         }
-        else if (Input.GetKeyDown(KeyCode.Alpha2) && SceneManager.GetSceneByName("Scene 2").isLoaded)
+        
+        else if (Input.GetKeyDown(KeyCode.Alpha2) && SceneManager.GetSceneByName("Redonda").isLoaded)
         {
-            SceneManager.UnloadSceneAsync("Scene 2");
+            SceneManager.UnloadSceneAsync("Redonda");
         }
     }
 }
