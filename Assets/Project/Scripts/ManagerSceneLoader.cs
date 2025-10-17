@@ -18,7 +18,6 @@ public class ManagerSceneLoader : MonoBehaviour
             TestSingleton.Instance.SayHi();
         }
 
-
         if(Input.GetKeyDown(KeyCode.Alpha1) && !SceneManager.GetSceneByName("Triangulo").isLoaded)
         {
             SceneManager.LoadScene("Triangulo", LoadSceneMode.Additive);
