@@ -12,12 +12,10 @@ public class ManagerSceneLoader : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-
         if(Input.GetKeyUp(KeyCode.Escape))
         {
             TestSingleton.Instance.SayHi();
         }
-
         if(Input.GetKeyDown(KeyCode.Alpha1) && !SceneManager.GetSceneByName("Triangulo").isLoaded)
         {
             SceneManager.LoadScene("Triangulo", LoadSceneMode.Additive);
@@ -30,7 +28,6 @@ public class ManagerSceneLoader : MonoBehaviour
         {
             SceneManager.LoadScene("Redonda", LoadSceneMode.Additive);
         }
-        
         else if (Input.GetKeyDown(KeyCode.Alpha2) && SceneManager.GetSceneByName("Redonda").isLoaded)
         {
             SceneManager.UnloadSceneAsync("Redonda");
