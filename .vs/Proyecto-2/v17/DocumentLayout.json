@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CarlosBlascoPomarol.AzureAD\\Documents\\Git\\Proyecto-2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08CA09DC-A316-D7A5-2D22-42A642C1B48B}|Assembly-CSharp.csproj|c:\\users\\carlosblascopomarol.azuread\\documents\\git\\proyecto-2\\assets\\project\\scripts\\movimientoplayercirculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08CA09DC-A316-D7A5-2D22-42A642C1B48B}|Assembly-CSharp.csproj|solutionrelative:assets\\project\\scripts\\movimientoplayercirculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08CA09DC-A316-D7A5-2D22-42A642C1B48B}|Assembly-CSharp.csproj|c:\\users\\carlosblascopomarol.azuread\\documents\\git\\proyecto-2\\assets\\project\\scripts\\animatehexagoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08CA09DC-A316-D7A5-2D22-42A642C1B48B}|Assembly-CSharp.csproj|solutionrelative:assets\\project\\scripts\\animatehexagoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08CA09DC-A316-D7A5-2D22-42A642C1B48B}|Assembly-CSharp.csproj|C:\\Users\\CarlosBlascoPomarol.AzureAD\\Documents\\Git\\Proyecto-2\\assets\\project\\scripts\\bossaudiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08CA09DC-A316-D7A5-2D22-42A642C1B48B}|Assembly-CSharp.csproj|solutionrelative:assets\\project\\scripts\\bossaudiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08CA09DC-A316-D7A5-2D22-42A642C1B48B}|Assembly-CSharp.csproj|C:\\Users\\CarlosBlascoPomarol.AzureAD\\Documents\\Git\\Proyecto-2\\assets\\project\\scripts\\pelea rr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08CA09DC-A316-D7A5-2D22-42A642C1B48B}|Assembly-CSharp.csproj|solutionrelative:assets\\project\\scripts\\pelea rr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08CA09DC-A316-D7A5-2D22-42A642C1B48B}|Assembly-CSharp.csproj|C:\\Users\\CarlosBlascoPomarol.AzureAD\\Documents\\Git\\Proyecto-2\\assets\\project\\scripts\\testcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08CA09DC-A316-D7A5-2D22-42A642C1B48B}|Assembly-CSharp.csproj|solutionrelative:assets\\project\\scripts\\testcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08CA09DC-A316-D7A5-2D22-42A642C1B48B}|Assembly-CSharp.csproj|C:\\Users\\CarlosBlascoPomarol.AzureAD\\Documents\\Git\\Proyecto-2\\assets\\project\\scripts\\saver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08CA09DC-A316-D7A5-2D22-42A642C1B48B}|Assembly-CSharp.csproj|solutionrelative:assets\\project\\scripts\\saver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08CA09DC-A316-D7A5-2D22-42A642C1B48B}|Assembly-CSharp.csproj|C:\\Users\\CarlosBlascoPomarol.AzureAD\\Documents\\Git\\Proyecto-2\\assets\\project\\scripts\\testsingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08CA09DC-A316-D7A5-2D22-42A642C1B48B}|Assembly-CSharp.csproj|solutionrelative:assets\\project\\scripts\\testsingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08CA09DC-A316-D7A5-2D22-42A642C1B48B}|Assembly-CSharp.csproj|C:\\Users\\CarlosBlascoPomarol.AzureAD\\Documents\\Git\\Proyecto-2\\assets\\project\\scripts\\charactercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08CA09DC-A316-D7A5-2D22-42A642C1B48B}|Assembly-CSharp.csproj|solutionrelative:assets\\project\\scripts\\charactercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08CA09DC-A316-D7A5-2D22-42A642C1B48B}|Assembly-CSharp.csproj|C:\\Users\\CarlosBlascoPomarol.AzureAD\\Documents\\Git\\Proyecto-2\\assets\\project\\scripts\\managersceneloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08CA09DC-A316-D7A5-2D22-42A642C1B48B}|Assembly-CSharp.csproj|solutionrelative:assets\\project\\scripts\\managersceneloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MovimientoPlayerCirculo.cs",
+              "DocumentMoniker": "C:\\Users\\CarlosBlascoPomarol.AzureAD\\Documents\\Git\\Proyecto-2\\Assets\\Project\\Scripts\\MovimientoPlayerCirculo.cs",
+              "RelativeDocumentMoniker": "Assets\\Project\\Scripts\\MovimientoPlayerCirculo.cs",
+              "ToolTip": "C:\\Users\\CarlosBlascoPomarol.AzureAD\\Documents\\Git\\Proyecto-2\\Assets\\Project\\Scripts\\MovimientoPlayerCirculo.cs",
+              "RelativeToolTip": "Assets\\Project\\Scripts\\MovimientoPlayerCirculo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T15:06:49.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AnimateHexagonController.cs",
+              "DocumentMoniker": "C:\\Users\\CarlosBlascoPomarol.AzureAD\\Documents\\Git\\Proyecto-2\\Assets\\Project\\Scripts\\AnimateHexagonController.cs",
+              "RelativeDocumentMoniker": "Assets\\Project\\Scripts\\AnimateHexagonController.cs",
+              "ToolTip": "C:\\Users\\CarlosBlascoPomarol.AzureAD\\Documents\\Git\\Proyecto-2\\Assets\\Project\\Scripts\\AnimateHexagonController.cs",
+              "RelativeToolTip": "Assets\\Project\\Scripts\\AnimateHexagonController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T14:14:41.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pelea RR.cs",
+              "DocumentMoniker": "C:\\Users\\CarlosBlascoPomarol.AzureAD\\Documents\\Git\\Proyecto-2\\Assets\\Project\\Scripts\\Pelea RR.cs",
+              "RelativeDocumentMoniker": "Assets\\Project\\Scripts\\Pelea RR.cs",
+              "ToolTip": "C:\\Users\\CarlosBlascoPomarol.AzureAD\\Documents\\Git\\Proyecto-2\\Assets\\Project\\Scripts\\Pelea RR.cs",
+              "RelativeToolTip": "Assets\\Project\\Scripts\\Pelea RR.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwA0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T17:16:42.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "testCode.cs",
+              "DocumentMoniker": "C:\\Users\\CarlosBlascoPomarol.AzureAD\\Documents\\Git\\Proyecto-2\\Assets\\Project\\Scripts\\testCode.cs",
+              "RelativeDocumentMoniker": "Assets\\Project\\Scripts\\testCode.cs",
+              "ToolTip": "C:\\Users\\CarlosBlascoPomarol.AzureAD\\Documents\\Git\\Proyecto-2\\Assets\\Project\\Scripts\\testCode.cs",
+              "RelativeToolTip": "Assets\\Project\\Scripts\\testCode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T16:50:12.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BossAudioManager.cs",
+              "DocumentMoniker": "C:\\Users\\CarlosBlascoPomarol.AzureAD\\Documents\\Git\\Proyecto-2\\Assets\\Project\\Scripts\\BossAudioManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Project\\Scripts\\BossAudioManager.cs",
+              "ToolTip": "C:\\Users\\CarlosBlascoPomarol.AzureAD\\Documents\\Git\\Proyecto-2\\Assets\\Project\\Scripts\\BossAudioManager.cs",
+              "RelativeToolTip": "Assets\\Project\\Scripts\\BossAudioManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T15:47:36.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Saver.cs",
+              "DocumentMoniker": "C:\\Users\\CarlosBlascoPomarol.AzureAD\\Documents\\Git\\Proyecto-2\\Assets\\Project\\Scripts\\Saver.cs",
+              "RelativeDocumentMoniker": "Assets\\Project\\Scripts\\Saver.cs",
+              "ToolTip": "C:\\Users\\CarlosBlascoPomarol.AzureAD\\Documents\\Git\\Proyecto-2\\Assets\\Project\\Scripts\\Saver.cs",
+              "RelativeToolTip": "Assets\\Project\\Scripts\\Saver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T14:17:14.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CharacterController.cs",
+              "DocumentMoniker": "C:\\Users\\CarlosBlascoPomarol.AzureAD\\Documents\\Git\\Proyecto-2\\Assets\\Project\\Scripts\\CharacterController.cs",
+              "RelativeDocumentMoniker": "Assets\\Project\\Scripts\\CharacterController.cs",
+              "ToolTip": "C:\\Users\\CarlosBlascoPomarol.AzureAD\\Documents\\Git\\Proyecto-2\\Assets\\Project\\Scripts\\CharacterController.cs",
+              "RelativeToolTip": "Assets\\Project\\Scripts\\CharacterController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T15:32:24.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ManagerSceneLoader.cs",
+              "DocumentMoniker": "C:\\Users\\CarlosBlascoPomarol.AzureAD\\Documents\\Git\\Proyecto-2\\Assets\\Project\\Scripts\\ManagerSceneLoader.cs",
+              "RelativeDocumentMoniker": "Assets\\Project\\Scripts\\ManagerSceneLoader.cs",
+              "ToolTip": "C:\\Users\\CarlosBlascoPomarol.AzureAD\\Documents\\Git\\Proyecto-2\\Assets\\Project\\Scripts\\ManagerSceneLoader.cs",
+              "RelativeToolTip": "Assets\\Project\\Scripts\\ManagerSceneLoader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T14:35:41.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TestSingleton.cs",
+              "DocumentMoniker": "C:\\Users\\CarlosBlascoPomarol.AzureAD\\Documents\\Git\\Proyecto-2\\Assets\\Project\\Scripts\\TestSingleton.cs",
+              "RelativeDocumentMoniker": "Assets\\Project\\Scripts\\TestSingleton.cs",
+              "ToolTip": "C:\\Users\\CarlosBlascoPomarol.AzureAD\\Documents\\Git\\Proyecto-2\\Assets\\Project\\Scripts\\TestSingleton.cs",
+              "RelativeToolTip": "Assets\\Project\\Scripts\\TestSingleton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T15:16:59.474Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
